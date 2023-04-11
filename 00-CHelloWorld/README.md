@@ -1,6 +1,6 @@
-# Sintaxis-y-Semantica-de-los-Lenguaje💻
-## curso: k2152
+# Número y título del trabajo: "Hello, World!" en C
+## apellido: seniow 
 año: 2023  
 legajo: 209.191-4  
-apellido: seniow  
+curso: k2152 
 nombre: Bautista
