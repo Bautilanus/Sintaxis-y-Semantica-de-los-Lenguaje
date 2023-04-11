@@ -2,5 +2,5 @@
 ## apellido: seniow 
 año: 2023  
 legajo: 209.191-4  
-curso: k2152 
+curso: k2152  
 nombre: Bautista
