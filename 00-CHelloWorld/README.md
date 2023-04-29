@@ -3,5 +3,5 @@
 año: 2023  
 legajo: 209.191-4  
 curso: k2152  
-nombre: Bautista
+nombre: Bautista  
 version del compilador: "c11"
